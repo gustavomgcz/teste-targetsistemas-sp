@@ -1,4 +1,4 @@
-const percentages = document.querySelector('.percentages');
+const percentages = document.querySelector(".percentages");
 
 const billingStates = {
   SP: 67836.43,
